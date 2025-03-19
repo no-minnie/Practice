@@ -1,0 +1,14 @@
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\4.AssemblyInfoInputs.cache
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\4.AssemblyInfo.cs
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\4.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\практика C#\1.1\4\bin\Debug\net8.0\4.exe
+C:\Users\37529\Desktop\практика C#\1.1\4\bin\Debug\net8.0\4.deps.json
+C:\Users\37529\Desktop\практика C#\1.1\4\bin\Debug\net8.0\4.runtimeconfig.json
+C:\Users\37529\Desktop\практика C#\1.1\4\bin\Debug\net8.0\4.dll
+C:\Users\37529\Desktop\практика C#\1.1\4\bin\Debug\net8.0\4.pdb
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\4.dll
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\refint\4.dll
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\4.pdb
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\4.genruntimeconfig.cache
+C:\Users\37529\Desktop\практика C#\1.1\4\obj\Debug\net8.0\ref\4.dll

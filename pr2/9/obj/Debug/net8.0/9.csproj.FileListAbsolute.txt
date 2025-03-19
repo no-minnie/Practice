@@ -1,0 +1,14 @@
+C:\Users\37529\Desktop\практика C#\1.1\9\bin\Debug\net8.0\9.exe
+C:\Users\37529\Desktop\практика C#\1.1\9\bin\Debug\net8.0\9.deps.json
+C:\Users\37529\Desktop\практика C#\1.1\9\bin\Debug\net8.0\9.runtimeconfig.json
+C:\Users\37529\Desktop\практика C#\1.1\9\bin\Debug\net8.0\9.dll
+C:\Users\37529\Desktop\практика C#\1.1\9\bin\Debug\net8.0\9.pdb
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\9.AssemblyInfoInputs.cache
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\9.AssemblyInfo.cs
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\9.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\9.dll
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\refint\9.dll
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\9.pdb
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\9.genruntimeconfig.cache
+C:\Users\37529\Desktop\практика C#\1.1\9\obj\Debug\net8.0\ref\9.dll
