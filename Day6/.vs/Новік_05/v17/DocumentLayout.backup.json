@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\sqldatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\sqldatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\nosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\nosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\interface2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\interface2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task4\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B18C8A-B354-447F-9C61-B13FFD13F76B}|Task4\\Task4.csproj|solutionrelative:task4\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D857C82-9CBC-4B60-95D3-669F97075C93}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D857C82-9CBC-4B60-95D3-669F97075C93}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D857C82-9CBC-4B60-95D3-669F97075C93}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task3\\combinedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D857C82-9CBC-4B60-95D3-669F97075C93}|Task3\\Task3.csproj|solutionrelative:task3\\combinedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|solutionrelative:task2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task2\\smatphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|solutionrelative:task2\\smatphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task2\\smartphone2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|solutionrelative:task2\\smartphone2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task2\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|solutionrelative:task2\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDA17DB-7137-4170-94BA-D17538831164}|Task2\\Task2.csproj|solutionrelative:task2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82722673-9229-47DE-86C5-461F837A4603}|Task1\\Task1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task1\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82722673-9229-47DE-86C5-461F837A4603}|Task1\\Task1.csproj|solutionrelative:task1\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82722673-9229-47DE-86C5-461F837A4603}|Task1\\Task1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_05\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82722673-9229-47DE-86C5-461F837A4603}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:09:14.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connector.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Connector.cs",
+              "RelativeDocumentMoniker": "Task4\\Connector.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Connector.cs",
+              "RelativeToolTip": "Task4\\Connector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:53:51.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Interface1.cs",
+              "RelativeDocumentMoniker": "Task4\\Interface1.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Interface1.cs",
+              "RelativeToolTip": "Task4\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:51:51.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interface2.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Interface2.cs",
+              "RelativeDocumentMoniker": "Task4\\Interface2.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Interface2.cs",
+              "RelativeToolTip": "Task4\\Interface2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:52:15.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\MyClass.cs",
+              "RelativeDocumentMoniker": "Task4\\MyClass.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\MyClass.cs",
+              "RelativeToolTip": "Task4\\MyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:53:24.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoSQL.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\NoSQL.cs",
+              "RelativeDocumentMoniker": "Task4\\NoSQL.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\NoSQL.cs",
+              "RelativeToolTip": "Task4\\NoSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:53:03.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:54:51.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLDatebase.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\SQLDatebase.cs",
+              "RelativeDocumentMoniker": "Task4\\SQLDatebase.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\SQLDatebase.cs",
+              "RelativeToolTip": "Task4\\SQLDatebase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:52:44.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Task4.cs",
+              "RelativeDocumentMoniker": "Task4\\Task4.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task4\\Task4.cs",
+              "RelativeToolTip": "Task4\\Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:51:38.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CombinedTask.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task3\\CombinedTask.cs",
+              "RelativeDocumentMoniker": "Task3\\CombinedTask.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task3\\CombinedTask.cs",
+              "RelativeToolTip": "Task3\\CombinedTask.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:56:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:57:59.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\User.cs",
+              "RelativeDocumentMoniker": "Task2\\User.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\User.cs",
+              "RelativeToolTip": "Task2\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:46:35.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Smatphone.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Smatphone.cs",
+              "RelativeDocumentMoniker": "Task2\\Smatphone.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Smatphone.cs",
+              "RelativeToolTip": "Task2\\Smatphone.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:47:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Smartphone2.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Smartphone2.cs",
+              "RelativeDocumentMoniker": "Task2\\Smartphone2.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Smartphone2.cs",
+              "RelativeToolTip": "Task2\\Smartphone2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:42:48.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Battery.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Battery.cs",
+              "RelativeDocumentMoniker": "Task2\\Battery.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Battery.cs",
+              "RelativeToolTip": "Task2\\Battery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:45:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:54:39.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\App.cs",
+              "RelativeDocumentMoniker": "Task2\\App.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task2\\App.cs",
+              "RelativeToolTip": "Task2\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:44:57.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task1\\Transport.cs",
+              "RelativeDocumentMoniker": "Task1\\Transport.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_05\\Task1\\Transport.cs",
+              "RelativeToolTip": "Task1\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:35:41.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
