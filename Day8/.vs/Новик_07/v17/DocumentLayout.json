@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1384D-BB17-4EDA-B76B-965F8916215D}|Task1\\Task1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1384D-BB17-4EDA-B76B-965F8916215D}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1384D-BB17-4EDA-B76B-965F8916215D}|Task1\\Task1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1384D-BB17-4EDA-B76B-965F8916215D}|Task1\\Task1.csproj|solutionrelative:task1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD1384D-BB17-4EDA-B76B-965F8916215D}|Task1\\Task1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task1\\speedlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD1384D-BB17-4EDA-B76B-965F8916215D}|Task1\\Task1.csproj|solutionrelative:task1\\speedlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8038189-6404-4840-9D31-18D25550CDAC}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8038189-6404-4840-9D31-18D25550CDAC}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8038189-6404-4840-9D31-18D25550CDAC}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task3\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8038189-6404-4840-9D31-18D25550CDAC}|Task3\\Task3.csproj|solutionrelative:task3\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8038189-6404-4840-9D31-18D25550CDAC}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task3\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8038189-6404-4840-9D31-18D25550CDAC}|Task3\\Task3.csproj|solutionrelative:task3\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task2\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|solutionrelative:task2\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task2\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|solutionrelative:task2\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_07\\task2\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C209544-DB6B-41F0-AFDB-73978777234A}|Task2\\Task2.csproj|solutionrelative:task2\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidEmailException.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task3\\InvalidEmailException.cs",
+              "RelativeDocumentMoniker": "Task3\\InvalidEmailException.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task3\\InvalidEmailException.cs",
+              "RelativeToolTip": "Task3\\InvalidEmailException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:47:28.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:45:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\ApiException.cs",
+              "RelativeDocumentMoniker": "Task2\\ApiException.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\ApiException.cs",
+              "RelativeToolTip": "Task2\\ApiException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:43:25.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Task2\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\ApiClient.cs",
+              "RelativeToolTip": "Task2\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:42:39.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\Request.cs",
+              "RelativeDocumentMoniker": "Task2\\Request.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\Request.cs",
+              "RelativeToolTip": "Task2\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:41:52.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:36:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task1\\Car.cs",
+              "RelativeDocumentMoniker": "Task1\\Car.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task1\\Car.cs",
+              "RelativeToolTip": "Task1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:33:38.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeedLimit.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task1\\SpeedLimit.cs",
+              "RelativeDocumentMoniker": "Task1\\SpeedLimit.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task1\\SpeedLimit.cs",
+              "RelativeToolTip": "Task1\\SpeedLimit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:32:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:32:10.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task3\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "Task3\\EmailValidator.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_07\\Task3\\EmailValidator.cs",
+              "RelativeToolTip": "Task3\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:49:57.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
