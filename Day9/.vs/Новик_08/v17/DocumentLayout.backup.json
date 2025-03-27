@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task1\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|solutionrelative:task1\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task1\\servicerequestdatecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|solutionrelative:task1\\servicerequestdatecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task1\\servicerequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8A8766-B970-41B3-A457-8AFD416F6D1B}|Task1\\Task1.csproj|solutionrelative:task1\\servicerequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task2\\linkedlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|solutionrelative:task2\\linkedlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task2\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|solutionrelative:task2\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task2\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9340BC8D-FB6A-4ED4-92B7-41D7C68C647A}|Task2\\Task2.csproj|solutionrelative:task2\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task3\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|solutionrelative:task3\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task3\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|solutionrelative:task3\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|c:\\users\\37529\\source\\repos\\\u043D\u043E\u0432\u0438\u043A_08\\task3\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD0A9-DFB8-4C8D-8BDF-4386BF084AFF}|Task3\\Task3.csproj|solutionrelative:task3\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkedListManager.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\LinkedListManager.cs",
+              "RelativeDocumentMoniker": "Task2\\LinkedListManager.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\LinkedListManager.cs",
+              "RelativeToolTip": "Task2\\LinkedListManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:05:37.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\MyLinkedList.cs",
+              "RelativeDocumentMoniker": "Task2\\MyLinkedList.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\MyLinkedList.cs",
+              "RelativeToolTip": "Task2\\MyLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:05:12.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:04:38.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:50:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Task1\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\ServiceRequest.cs",
+              "RelativeToolTip": "Task1\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:53:50.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRequestDateComparer.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\ServiceRequestDateComparer.cs",
+              "RelativeDocumentMoniker": "Task1\\ServiceRequestDateComparer.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\ServiceRequestDateComparer.cs",
+              "RelativeToolTip": "Task1\\ServiceRequestDateComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:54:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRequestManager.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\ServiceRequestManager.cs",
+              "RelativeDocumentMoniker": "Task1\\ServiceRequestManager.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task1\\ServiceRequestManager.cs",
+              "RelativeToolTip": "Task1\\ServiceRequestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:54:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyLinkedListNode.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\MyLinkedListNode.cs",
+              "RelativeDocumentMoniker": "Task2\\MyLinkedListNode.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task2\\MyLinkedListNode.cs",
+              "RelativeToolTip": "Task2\\MyLinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:04:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:12:09.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\ILogger.cs",
+              "RelativeDocumentMoniker": "Task3\\ILogger.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\ILogger.cs",
+              "RelativeToolTip": "Task3\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:13:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Task3\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\ConsoleLogger.cs",
+              "RelativeToolTip": "Task3\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:14:05.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Task3\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\37529\\source\\repos\\\u041D\u043E\u0432\u0438\u043A_08\\Task3\\LoggerManager.cs",
+              "RelativeToolTip": "Task3\\LoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:14:22.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
