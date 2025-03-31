@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|solutionrelative:task2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.1\\lowercaseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|solutionrelative:task2.1\\lowercaseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.1\\itextformatstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|solutionrelative:task2.1\\itextformatstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.1\\uppercaseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|solutionrelative:task2.1\\uppercaseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.1\\titlecaseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|solutionrelative:task2.1\\titlecaseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.1\\textformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77161731-F42C-4667-9EC6-A8A17C828F86}|Task2.1\\Task2.1.csproj|solutionrelative:task2.1\\textformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.2\\caedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|solutionrelative:task2.2\\caedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.2\\icarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|solutionrelative:task2.2\\icarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|solutionrelative:task2.2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|solutionrelative:task2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.2\\sedanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|solutionrelative:task2.2\\sedanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.2\\suvbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|solutionrelative:task2.2\\suvbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task2.2\\truckbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D63EF8-DC42-4FC6-9E40-583AFCA6ED9F}|Task2.2\\Task2.2.csproj|solutionrelative:task2.2\\truckbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task3\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|solutionrelative:task3\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task3\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|solutionrelative:task3\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task3\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|solutionrelative:task3\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task3\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|solutionrelative:task3\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task3\\smarthomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C108E5D2-1211-4F36-A420-2AAEDB1CA30A}|Task3\\Task3.csproj|solutionrelative:task3\\smarthomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8BE263-7DB1-4EF3-A89C-4DA91382ADFD}|Task1\\Task1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task1\\usetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8BE263-7DB1-4EF3-A89C-4DA91382ADFD}|Task1\\Task1.csproj|solutionrelative:task1\\usetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8BE263-7DB1-4EF3-A89C-4DA91382ADFD}|Task1\\Task1.csproj|c:\\users\\37529\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u043D\u043E\u0432\u0438\u043A_10\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8BE263-7DB1-4EF3-A89C-4DA91382ADFD}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CaeDirector.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\CaeDirector.cs",
+              "RelativeDocumentMoniker": "Task2.2\\CaeDirector.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\CaeDirector.cs",
+              "RelativeToolTip": "Task2.2\\CaeDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:57:00.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpperCaseFormat.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\UpperCaseFormat.cs",
+              "RelativeDocumentMoniker": "Task2.1\\UpperCaseFormat.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\UpperCaseFormat.cs",
+              "RelativeToolTip": "Task2.1\\UpperCaseFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:35:28.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TitleCaseFormat.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\TitleCaseFormat.cs",
+              "RelativeDocumentMoniker": "Task2.1\\TitleCaseFormat.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\TitleCaseFormat.cs",
+              "RelativeToolTip": "Task2.1\\TitleCaseFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:36:44.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\TextFormatter.cs",
+              "RelativeDocumentMoniker": "Task2.1\\TextFormatter.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\TextFormatter.cs",
+              "RelativeToolTip": "Task2.1\\TextFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:37:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\Program.cs",
+              "RelativeDocumentMoniker": "Task2.1\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\Program.cs",
+              "RelativeToolTip": "Task2.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:34:16.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LowerCaseFormat.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\LowerCaseFormat.cs",
+              "RelativeDocumentMoniker": "Task2.1\\LowerCaseFormat.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\LowerCaseFormat.cs",
+              "RelativeToolTip": "Task2.1\\LowerCaseFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:35:58.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITextFormatStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\ITextFormatStrategy.cs",
+              "RelativeDocumentMoniker": "Task2.1\\ITextFormatStrategy.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.1\\ITextFormatStrategy.cs",
+              "RelativeToolTip": "Task2.1\\ITextFormatStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:34:25.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\ICarBuilder.cs",
+              "RelativeDocumentMoniker": "Task2.2\\ICarBuilder.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\ICarBuilder.cs",
+              "RelativeToolTip": "Task2.2\\ICarBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:53:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\Car.cs",
+              "RelativeDocumentMoniker": "Task2.2\\Car.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\Car.cs",
+              "RelativeToolTip": "Task2.2\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:52:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2.2\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\Program.cs",
+              "RelativeToolTip": "Task2.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:49:10.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SedanBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\SedanBuilder.cs",
+              "RelativeDocumentMoniker": "Task2.2\\SedanBuilder.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\SedanBuilder.cs",
+              "RelativeToolTip": "Task2.2\\SedanBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:53:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SUVBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\SUVBuilder.cs",
+              "RelativeDocumentMoniker": "Task2.2\\SUVBuilder.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\SUVBuilder.cs",
+              "RelativeToolTip": "Task2.2\\SUVBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:54:06.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TruckBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\TruckBuilder.cs",
+              "RelativeDocumentMoniker": "Task2.2\\TruckBuilder.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task2.2\\TruckBuilder.cs",
+              "RelativeToolTip": "Task2.2\\TruckBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:56:26.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Alarm.cs",
+              "RelativeDocumentMoniker": "Task3\\Alarm.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Alarm.cs",
+              "RelativeToolTip": "Task3\\Alarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:38:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\IDevice.cs",
+              "RelativeDocumentMoniker": "Task3\\IDevice.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\IDevice.cs",
+              "RelativeToolTip": "Task3\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:36:20.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Light.cs",
+              "RelativeDocumentMoniker": "Task3\\Light.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Light.cs",
+              "RelativeToolTip": "Task3\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:36:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:36:05.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Thermostat.cs",
+              "RelativeDocumentMoniker": "Task3\\Thermostat.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\Thermostat.cs",
+              "RelativeToolTip": "Task3\\Thermostat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:37:30.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SmartHomeHub.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\SmartHomeHub.cs",
+              "RelativeDocumentMoniker": "Task3\\SmartHomeHub.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task3\\SmartHomeHub.cs",
+              "RelativeToolTip": "Task3\\SmartHomeHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:38:32.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "USetting.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task1\\USetting.cs",
+              "RelativeDocumentMoniker": "Task1\\USetting.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task1\\USetting.cs",
+              "RelativeToolTip": "Task1\\USetting.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:52:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u041D\u043E\u0432\u0438\u043A_10\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:50:15.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
