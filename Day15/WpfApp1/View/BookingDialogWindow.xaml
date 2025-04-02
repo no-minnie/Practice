@@ -1,0 +1,90 @@
+﻿<Window x:Class="WpfApp1.Views.BookingDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.Views"
+        mc:Ignorable="d"
+        Title="{Binding WindowTitle}"
+        SizeToContent="WidthAndHeight" MinWidth="380" MinHeight="370"
+        WindowStartupLocation="CenterOwner" ShowInTaskbar="False" ResizeMode="CanResizeWithGrip"
+        FocusManager.FocusedElement="{Binding ElementName=txtClientName}">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="DialogBackgroundBrush" Color="#FFE6F0FA"/>
+        <local:BoolToBackgroundConverter x:Key="ReadOnlyToBackgroundConverter"/>
+        <local:StringNullOrEmptyToBoolConverter x:Key="StringNullOrEmptyToBoolConverter"/>
+        <Style TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="0,0,5,0"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="0,3"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="DatePicker">
+            <Setter Property="Margin" Value="0,3"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="Margin" Value="5,0,0,0"/>
+        </Style>
+        <Style x:Key="ErrorTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Red"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="Margin" Value="0,10,0,5"/>
+            <Setter Property="Visibility" Value="Collapsed"/>
+            <Setter Property="MinHeight" Value="20"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ErrorMessage, Converter={StaticResource StringNullOrEmptyToBoolConverter}}" Value="False">
+                    <Setter Property="Visibility" Value="Visible"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Border Background="{StaticResource DialogBackgroundBrush}" Padding="15">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="{Binding WindowTitle}" FontSize="16" FontWeight="Bold" Margin="0,0,0,15" HorizontalAlignment="Center"/>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Content="_Имя клиента:" Target="{Binding ElementName=txtClientName}"/>
+                <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtClientName" Text="{Binding ClientName, UpdateSourceTrigger=PropertyChanged}"/>
+                <Label Grid.Row="1" Grid.Column="0" Content="Номер _комнаты:" Target="{Binding ElementName=txtRoomNumber}"/>
+                <TextBox Grid.Row="1" Grid.Column="1" x:Name="txtRoomNumber" Text="{Binding RoomNumber, UpdateSourceTrigger=PropertyChanged}" IsReadOnly="{Binding IsRoomNumberReadOnly}" Background="{Binding IsRoomNumberReadOnly, Converter={StaticResource ReadOnlyToBackgroundConverter}}"/>
+                <Label Grid.Row="2" Grid.Column="0" Content="_Дата заезда:" Target="{Binding ElementName=dpStartDate}"/>
+                <DatePicker Grid.Row="2" Grid.Column="1" x:Name="dpStartDate" SelectedDate="{Binding StartDate, UpdateSourceTrigger=PropertyChanged}"/>
+                <Label Grid.Row="3" Grid.Column="0" Content="Дата вые_зда:" Target="{Binding ElementName=dpEndDate}"/>
+                <DatePicker Grid.Row="3" Grid.Column="1" x:Name="dpEndDate" SelectedDate="{Binding EndDate, UpdateSourceTrigger=PropertyChanged}"/>
+            </Grid>
+
+            <TextBlock Grid.Row="2" Text="{Binding ErrorMessage}" Style="{StaticResource ErrorTextBlockStyle}"/>
+
+            <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,15,0,0">
+                <Button Content="_OK" IsDefault="True" Command="{Binding SaveCommand}"/>
+                <Button Content="_Отмена" IsCancel="True" Command="{Binding CancelCommand}"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
