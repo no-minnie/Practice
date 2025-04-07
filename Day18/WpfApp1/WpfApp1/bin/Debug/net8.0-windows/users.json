@@ -1,0 +1,12 @@
+[
+  {
+    "Username": "guest1",
+    "PasswordHash": "MTIz", 
+    "Role": 0 
+  },
+  {
+    "Username": "admin",
+    "PasswordHash": "MTIzNA==", 
+    "Role": 1 
+  }
+]

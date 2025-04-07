@@ -1,0 +1,81 @@
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\37529\Desktop\КПиЯП\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\ChatView.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\ChatView.baml
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\37529\Desktop\практика C#\Новик_15\Новик_1\Новик_15\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\ChatView.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\ChatView.baml
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\37529\Desktop\практика C#\Новик_16\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll

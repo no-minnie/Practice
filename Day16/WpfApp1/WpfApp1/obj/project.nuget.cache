@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDpp6sTEmxo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\37529\\Desktop\\практика C#\\Новик_15\\Новик_15\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37529\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

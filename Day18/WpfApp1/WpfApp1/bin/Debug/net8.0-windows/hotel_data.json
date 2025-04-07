@@ -1,0 +1,99 @@
+{
+  "Rooms": [
+    {
+      "StatusDisplay": "Available",
+      "Id": 1,
+      "RoomNumber": "101 Стандарт",
+      "PricePerNight": 2500.0,
+      "Status": 0
+    },
+    {
+      "StatusDisplay": "Available",
+      "Id": 2,
+      "RoomNumber": "102 Стандарт",
+      "PricePerNight": 2500.0,
+      "Status": 0
+    },
+    {
+      "StatusDisplay": "Available",
+      "Id": 3,
+      "RoomNumber": "103 Комфорт",
+      "PricePerNight": 3200.0,
+      "Status": 0
+    },
+    {
+      "StatusDisplay": "Occupied",
+      "Id": 4,
+      "RoomNumber": "201 Полулюкс",
+      "PricePerNight": 4500.0,
+      "Status": 1
+    },
+    {
+      "StatusDisplay": "Available",
+      "Id": 5,
+      "RoomNumber": "202 Люкс",
+      "PricePerNight": 6000.0,
+      "Status": 0
+    },
+    {
+      "StatusDisplay": "Maintenance",
+      "Id": 6,
+      "RoomNumber": "301 Стандарт",
+      "PricePerNight": 2600.0,
+      "Status": 2
+    },
+    {
+      "StatusDisplay": "Available",
+      "Id": 7,
+      "RoomNumber": "302 Комфорт",
+      "PricePerNight": 3300.0,
+      "Status": 0
+    }
+  ],
+  "Bookings": [
+    {
+      "BookingId": 5,
+      "RoomId": 4,
+      "GuestName": "rrrr",
+      "CheckInDate": "2025-04-07T00:00:00+03:00",
+      "CheckOutDate": "2025-04-08T00:00:00+03:00",
+      "BookedRoom": {
+        "StatusDisplay": "Occupied",
+        "Id": 4,
+        "RoomNumber": "201 Полулюкс",
+        "PricePerNight": 4500.0,
+        "Status": 1
+      }
+    }
+  ],
+  "Clients": [
+    {
+      "ClientId": 1,
+      "Name": "Петр Сидоров"
+    },
+    {
+      "ClientId": 2,
+      "Name": "Анна Кузнецова"
+    },
+    {
+      "ClientId": 3,
+      "Name": "ggggg"
+    },
+    {
+      "ClientId": 4,
+      "Name": "rrrr"
+    },
+    {
+      "ClientId": 5,
+      "Name": "Сафонов Оплати"
+    },
+    {
+      "ClientId": 6,
+      "Name": "ffffff"
+    },
+    {
+      "ClientId": 7,
+      "Name": "eeee"
+    }
+  ]
+}
