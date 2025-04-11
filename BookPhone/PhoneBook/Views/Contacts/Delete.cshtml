@@ -1,0 +1,39 @@
+﻿@model PhoneBook.Models.Contact
+
+@{
+    ViewData["Title"] = "Удалить контакт";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>Вы уверены, что хотите удалить этот контакт?</h3>
+<div>
+    <h4>Контакт</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Удалить</button> |
+        <a asp-action="Index">Назад к списку</a>
+    </form>
+</div>
